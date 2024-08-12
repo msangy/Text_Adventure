@@ -1,0 +1,14 @@
+#Welcome Message
+print("Hello, player. Welcome to Haunted Isle, the text-based horror time-travel game.")
+print("Using only words and your imagination, you'll go on a journey to save yourself from the past.")
+print("I hope that you enjoy!")
+print("First, choose your character: Robot, Human, Animal ")
+
+#Player options list
+players = ["Robot", "Human", "Animal"]
+
+#User's Choice
+user_choice = input()
+if user_choice not in(players):
+    print("That's not a valid choice. Please select from the options")
+
