@@ -1,2 +1,2 @@
 # Text_Adventure
-Text Based Adventure Game using Python
+This Flask-based web application is an interactive text adventure game where users navigate through a branching narrative set on a mysterious alien planet. Players make choices at key moments, and their decisions affect the outcome of the story. The app features a simple interface where users select prompts to advance the story and can restart the adventure in the end to explore different narrative paths. This project demonstrates how to create a dynamic, web-based storytelling experience using Flask and HTML forms.
